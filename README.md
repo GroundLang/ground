@@ -1,5 +1,9 @@
 # GroundLang
-Ground is made to be human readable, yet powerful to perform simple tasks.
+Ground is a simple, yet powerful language used to create basic applications.
 
-Although it's not a language yet, it will be soon.
-
+### Variables
+Variables are assigned via `var`. A variable can hold one of 3 types of values: Boolean (true/false), integers, floats, and strings.
+> `var age = 26`
+> `var price = 12.99`
+> `var name = "Jeffery"`
+> `var enrolled = True`
