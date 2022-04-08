@@ -7,5 +7,7 @@ Welcome to Ground, a simple programming language designed for portability and al
 Variables are like boxes that can hold data. They can hold words, numbers, and true/false values.
 
 > `var name = "Jeffery"`
+> 
 > `var age = 26`
+> 
 > `var enrolledInClass = True`
