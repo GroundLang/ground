@@ -3,11 +3,10 @@ Welcome to Ground, a simple programming language designed for portability and al
 
 > Please note that this is not a real programming language, but is in development.
 
-### Variables
-Variables are like boxes that can hold data. They can hold words, numbers, and true/false values.
+## Syntax
+### Printing to the console
+Print statments to the console using `print()`. You can print variables, strings, numbers, etc.
 
-> `var name = "Jeffery"`
-> 
-> `var age = 26`
-> 
-> `var enrolledInClass = True`
+> `print("Hello world!")
+
+> > Hello world!
